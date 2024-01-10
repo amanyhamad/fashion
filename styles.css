@@ -1,0 +1,32 @@
+.container{font-weight: bold;font-family: Georgia, 'Times New Roman', Times, serif}
+
+.container-a{margin: 100px;padding:25px;}
+
+
+h4{text-decoration-line: underline;}
+
+
+img{height: 20rem;}
+
+.form-group {
+    margin-bottom: 20px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+
+input[type="text"],
+input[type="email"],
+input[type="phone"],
+textarea {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+
